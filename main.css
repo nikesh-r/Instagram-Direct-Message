@@ -78,8 +78,8 @@ img {
 	padding: 10px;
 	font-family: var(--my-font);
 	font-weight: 500;
-	
-
+	line-height: 1.3rem;
+	max-width: 70%;
 }
 .l-msg-box {
 	display: flex;
@@ -96,7 +96,6 @@ img {
 }
 .l-msgs {
 	background-color: white;
-	max-width: 280px;
 }
 
 .input-container {
